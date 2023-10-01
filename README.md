@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx
+this is the read me file
